@@ -1,0 +1,36 @@
+#idea
+*.iml
+.idea/
+out/
+bin/
+
+# maven
+target/
+dependency-reduced-pom.xml
+
+# gradle
+.gradle/
+org.tlz.service/build/
+schedule/build/
+tlz.crm.edm.platform/build/
+tlz.crm.edm.sdk/build/
+tlz.crm.edm.tools/build/
+
+# eclipse
+.classpath
+.project
+.settings/
+bin/
+.springBeans
+/org.tlz.service/velocity.log
+
+
+#node
+node_modules
+*.log
+# Logs
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
